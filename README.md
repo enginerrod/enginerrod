@@ -3,6 +3,7 @@
 <!--
 **enginerrod/enginerrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://vk.com/your_profile">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
